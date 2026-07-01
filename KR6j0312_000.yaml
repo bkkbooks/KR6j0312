@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0312/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在菩薩怛嚩多唎隨心陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1103b.xml
+    old_id: T20n1103b
+hash: sha256:ea93cba6b70b7f9ef069c6c4e3807a3f7319e08fc0d408819a11d64be34c9977

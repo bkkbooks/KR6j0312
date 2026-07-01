@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR6j0312/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6j0312_T_000-0463b, 'n': 0463b, ed: T, source_xml_id: T20.1103b.0463b}
+  - {type: line-break, offset: 0, content: '', id: KR6j0312_T_000-0463b01, ed: T, 'n': 0463b01}
+  - {type: line-break, offset: 0, content: '', id: KR6j0312_T_000-0463b02, ed: T, 'n': 0463b02}
+  body: []
+  back: []
+hash: sha256:45a16dd71f7ef4f1f92ef49c57abfd2b06b283aeb3be013d55f9ecd52e1d18ad
