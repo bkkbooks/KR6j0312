@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0312/v1
 canonical_location: https://kanripo.org/bkk/KR6j0312/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀自在菩薩怛嚩多唎隨心陀羅尼經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0312_000.yaml, hash: 'sha256:ea93cba6b70b7f9ef069c6c4e3807a3f7319e08fc0d408819a11d64be34c9977'}
-  - {seq: 1, filename: KR6j0312_001.yaml, hash: 'sha256:2b2ad79674169de63f3063c4963528521c934ebb0877a866fb04cc691192a237'}
+  - {seq: 1, filename: KR6j0312_001.yaml, hash: 'sha256:f81ac54940adbdb7092ebfa53e559c5606296cdae1e67db43d125e24b88b72fe'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0312_000.markers.yaml, hash: 'sha256:1003f36629524fe05e3a5513ccbd628cd3fda0e990ec6ef2e5f7087c86ed428c'}
-  - {seq: 1, role: markers, filename: assets/KR6j0312_001.markers.yaml, hash: 'sha256:eb05d9aa2b525f4bdb1983eef3a5bbdd045720bd8d485e80f355647f59842fb0'}
+  - {seq: 1, role: markers, filename: assets/KR6j0312_001.markers.yaml, hash: 'sha256:0cb9ffc9908f78c46a6e073f714d12a497cc609bd354831d0d4c37c7ec5a98a3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -555,4 +555,7 @@ table_of_contents:
   label: 觀世音說療一切病壇法
   type: mulu
   level: 1
-hash: sha256:9c6c5abf7a2c8d9b63ebebe46c4df812736e07837be69546bf54e37e21b45616
+hash: sha256:f3eb5e02c05b4e6845a1c92eb2a3a4d5384a22b932751f6428a648a115089da7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
